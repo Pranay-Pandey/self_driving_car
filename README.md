@@ -42,8 +42,8 @@ In this way we ensure that the car doesn’t go too slow during uphill and not t
 
 
 https://user-images.githubusercontent.com/79053599/179050684-9dd6d71e-123a-48b2-b03d-dd4d4a5c2c73.mp4
-
-
+<hr>
+<video src='https://user-images.githubusercontent.com/79053599/179050684-9dd6d71e-123a-48b2-b03d-dd4d4a5c2c73.mp4' width=180/>
 
 
 
