@@ -42,8 +42,8 @@ In this way we ensure that the car doesn’t go too slow during uphill and not t
 
 
 https://user-images.githubusercontent.com/79053599/179050684-9dd6d71e-123a-48b2-b03d-dd4d4a5c2c73.mp4
-<hr>
-<video src='https://user-images.githubusercontent.com/79053599/179050684-9dd6d71e-123a-48b2-b03d-dd4d4a5c2c73.mp4' width=180/>
+
+or access a video demonstration of the run from <a href='https://github.com/Pranay-Pandey/self_driving_car/blob/main/Self_driving_car.mp4'>here</a>
 
 
 
@@ -52,7 +52,7 @@ To run it in your own systems first install all the packages using the <a href='
 and then replace the following files
 
 aim_file_follow.py in ros2ws/src/aim_line/follow/aim_line_follow<br>
-nxp_track_vision.py in ros2ws/src/nxp_cup_vision/nxp_cup_vision<br>
+nxp_track_vision.py in ros2ws/src/nxp_cup_vision/nxp_cup_vision<br><br>
 and then run the package using the command
 <pre><code>ros2 launch sim_gazebo_bringup sim_gazebo.launch.py</code></pre>
 
