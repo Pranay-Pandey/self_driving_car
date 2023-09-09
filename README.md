@@ -42,9 +42,16 @@ In this way we ensure that the car doesn’t go too slow during uphill and not t
 
 
 
-https://user-images.githubusercontent.com/79053599/179050684-9dd6d71e-123a-48b2-b03d-dd4d4a5c2c73.mp4
+
+
+https://github.com/Pranay-Pandey/self_driving_car/assets/79053599/5a67406b-8382-4818-b3e3-18cc142243ce
+
 
 or access a video demonstration of the run from <a href='https://github.com/Pranay-Pandey/self_driving_car/blob/main/Self_driving_car.mp4'>here</a>
+
+
+<a href = "https://github.com/Pranay-Pandey/self_driving_car/blob/main/SDC.mp4">Final Track video demo</a>
+
 
 
 
