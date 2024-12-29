@@ -1,10 +1,13 @@
 # self driving car
 
-This development was for the qualification round of <a href='https://nxpaimindia.com/'><b>NXP-AIM-INDIA</b></a>
-
 The task is to move the car using only the pixy camera provided along with the car in the arena on the laid out track which includes under the over bridge, over the over bridge, zig zag tracks and some speed bumps.
 
 ![image](https://user-images.githubusercontent.com/79053599/179040830-9c331b0b-118d-47cb-a063-781e238e5e18.png)
+
+![{905CCF0A-3757-4891-A4B2-D73319D2B548}](https://github.com/user-attachments/assets/35a64ac6-7fb8-4460-a671-a0d6d96385e9)
+
+![{7EE9AF9F-8F1D-44EA-B61C-9580F4B6FAA9}](https://github.com/user-attachments/assets/8f77a880-1e40-4052-95bc-3c70b359924f)
+
 
 The complete development is done in ros2 enviroment and gazebo simulation in Ubuntu 20.04
 <hr>
